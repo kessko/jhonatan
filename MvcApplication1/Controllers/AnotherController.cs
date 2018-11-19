@@ -14,6 +14,7 @@ namespace MvcApplication1.Controllers
      
         public ViewResult Index()
         {
+            // view returned
             return View();
         }
 
